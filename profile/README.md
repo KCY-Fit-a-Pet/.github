@@ -2,7 +2,7 @@
 안녕하세요, 김최양 개발팀입니다.
 
 ## Repository
----
+
 |Description|Link|Contributor|
 |:---:|:---:|:---:|
 |Design|[Figma]()|[김유빈](https://github.com/youvebeen09)|
